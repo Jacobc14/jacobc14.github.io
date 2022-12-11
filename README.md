@@ -8,7 +8,7 @@ Independent Variable: The one thing that we are going to change is the spot to s
 
 Constants: we will keep the same amount of space so we can see which spot has the most bacteria
 
-Our Findings;
+Our Findings:
 
 Name |	Location |	Form |	Elevation |	Margin |	Color |	gram value |	how much
 --- |    --- |       --- | --- |   --- |       --- |    --- |  --- 
