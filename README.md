@@ -8,11 +8,11 @@ Independent Variable: The one thing that we are going to change is the spot to s
 
 Constants: we will keep the same amount of space so we can see which spot has the most bacteria
 
-Name |	Location |	Form |	Elevation |	Margin |	Color |	gram | value |	how much
---- |    --- |       --- | --- |   --- |       --- |    --- |   --- |      --- |
-Maddox |	Boy's Urinal |	circular and irregular	Umbonate	smooth	Palegoldrod	positive/negative	XL
-Jacob	grand staircase	circular	raised 	smooth	palegoldrod	positive/negative	L
-danny	Mr.Daileys Door	nothing	nothing	smooth	palegoldrod	positive/negative	L
-vj	Entrance Door	Circular	Convex	smooth	Palegoldrod	positive	XS
-Vj	stairs	circular	convex	smooth	OffWhite	negative	S
-Masimba	Classroom	circular	convex	smooth	palegoldrod	negative	M
+Name |	Location |	Form |	Elevation |	Margin |	Color |	gram value |	how much
+--- |    --- |       --- | --- |   --- |       --- |    --- |  --- 
+Maddox |	Boy's Urinal |	circular and irregular |	Umbonate |	smooth |	Palegoldrod |	positive/negative |	XL
+Jacob |	grand staircase |	circular |	raised | smooth |	palegoldrod |	positive/negative |	L
+danny | Mr.Daileys Door | nothing |	nothing |	smooth |	palegoldrod |	positive/negative |	L
+vj |	Entrance Door |	Circular |	Convex |	smooth |	Palegoldrod |	positive |	XS
+Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
+Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
