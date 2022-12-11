@@ -31,8 +31,8 @@ Gram-negative cells have a thinner cell wall, which gives them a pink color.
 
 Up to 200 microns can be moved by a single bacterium every second.
 
-  [Source one](https://my.clevelandclinic.org/health/diagnostics/22612-gram-stain#:~:text=Gram%2Dpositive%20organisms,purple%20under%20a%20Gram%20stain.)
+[Source one](https://my.clevelandclinic.org/health/diagnostics/22612-gram-stain#:~:text=Gram%2Dpositive%20organisms,purple%20under%20a%20Gram%20stain.)
 
-Source two
+[Source two](https://socratic.org/questions/are-bacteria-considered-living-or-nonliving-why)
 
-Source three
+[Source three](https://hypertextbook.com/facts/2000/ElaineKung.shtml#:~:text=Bacteria%20can%20reach%20speeds%20from,are%20undoubtedly%20faster%20than%20gliders.)
