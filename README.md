@@ -7,8 +7,8 @@ Testable: the iv will be affected by the dv because only one of the spots will h
 Independent Variable: The one thing that we are going to change is the spot to see where the most bacteria will be, the bathroom, the stairs, the classroom, the wall way, or the grand stairs. Dependent Variable: We will measure the amount of bacteria in the two areas.
 
 Constants: we will keep the same amount of space so we can see which spot has the most bacteria
-Name |	Location |	Form |	Elevation |	Margin |	Color |	gram | value |	how much
 
+Name |	Location |	Form |	Elevation |	Margin |	Color |	gram | value |	how much
 --- |    --- |       --- | --- |   --- |       --- |    --- |   --- |      --- |
 Maddox |	Boy's Urinal |	circular and irregular	Umbonate	smooth	Palegoldrod	positive/negative	XL
 Jacob	grand staircase	circular	raised 	smooth	palegoldrod	positive/negative	L
