@@ -31,8 +31,7 @@ Gram-negative cells have a thinner cell wall, which gives them a pink color.
 
 Up to 200 microns can be moved by a single bacterium every second.
 
-<dl>
-  <dt>Source one</dt>
+  [Source one](https://my.clevelandclinic.org/health/diagnostics/22612-gram-stain#:~:text=Gram%2Dpositive%20organisms,purple%20under%20a%20Gram%20stain.)
 
 Source two
 
