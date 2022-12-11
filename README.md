@@ -13,13 +13,8 @@ Our Findings;
 Name |	Location |	Form |	Elevation |	Margin |	Color |	gram value |	how much
 --- |    --- |       --- | --- |   --- |       --- |    --- |  --- 
 Maddox |	Boy's Urinal |	circular and irregular |	Umbonate |	smooth |	Palegoldrod |	positive/negative |	XL
-
 Jacob |	grand staircase |	circular |	raised | smooth |	palegoldrod |	positive/negative |	L
-
 Danny | Mr.Daileys Door | nothing |	nothing |	smooth |	palegoldrod |	positive/negative |	L
-
 Vj |	Entrance Door |	Circular |	Convex |	smooth |	Palegoldrod |	positive |	XS
-
 Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
-
 Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
