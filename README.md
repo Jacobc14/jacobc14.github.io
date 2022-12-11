@@ -1,4 +1,4 @@
-Group Members:Jacob, Danny/Rene, VJ, Maddox, Masimba.
+Group Members: Jacob, Danny/Rene, VJ, Maddox, Masimba.
 
 Stop the Spread:
 
@@ -18,6 +18,10 @@ Danny | Mr.Daileys Door | nothing |	nothing |	smooth |	palegoldrod |	positive/ne
 Vj |	Entrance Door |	Circular |	Convex |	smooth |	Palegoldrod |	positive |	XS
 Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
 Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
+
+
+
+We discovered that the great steps do not contain the highest concentration of microorganisms. This is due to frequent usage of the restroom and my assumption that some users do not wash their hands. which only adds to the stench. It could be that they cleaned the stairs that day or that the boy's restroom had whatever was present because when we went to the area where the grand staircase was believed to have the most bacteria. Once the bacteria grew, we discovered that the bacteria in the boys restroom had more bacteria than the grand staircase.
 
 
 
