@@ -20,12 +20,14 @@ Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
 Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
 
 
+What we discovered:
 
 We discovered that the great steps do not contain the highest concentration of microorganisms. This is due to frequent usage of the restroom and my assumption that some users do not wash their hands. which only adds to the stench. It could be that they cleaned the stairs that day or that the boy's restroom had whatever was present because when we went to the area where the grand staircase was believed to have the most bacteria. Once the bacteria grew, we discovered that the bacteria in the boys restroom had more bacteria than the grand staircase.
 
 
+Facts:
 
-here are some of the facts that we found:
+Here are some of the facts that we found:
 
 Bacteria are single-celled prokaryotic creatures.
 
