@@ -19,8 +19,9 @@ Vj |	Entrance Door |	Circular |	Convex |	smooth |	Palegoldrod |	positive |	XS
 Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
 Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
 
-here are some of the facts that we found:
 
+
+here are some of the facts that we found:
 
 Bacteria are single-celled prokaryotic creatures.
 
@@ -30,7 +31,8 @@ Gram-negative cells have a thinner cell wall, which gives them a pink color.
 
 Up to 200 microns can be moved by a single bacterium every second.
 
-Source one
+<dl>
+  <dt>Source one</dt>
 
 Source two
 
