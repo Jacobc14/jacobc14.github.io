@@ -8,62 +8,10 @@ Independent Variable: The one thing that we are going to change is the spot to s
 
 Constants: we will keep the same amount of space so we can see which spot has the most bacteria
 
-Hypothesis: i think that the class room or the grand stairs will have the most bacteria.
-
-Name
-Location
-Form
-Elevation
-Margin
-Color
-Gram Value
-Amount
-|Maddox|
-Boy's Urinal|
-Circular/Irregular|
-Umbonate|
-Smooth|
-Palegoldrod|
-Positive/Negative|
-XL|
-|Jacob|
-Grand Staircase|
-Circular|
-Raised|
-Smooth|
-Palegoldrod|
-Positive/Negative|
-L|
-|Danny/Rene|
-Dailey's Door|
-None|
-None|
-Smooth|
-Palegoldrod|
-Positive/Negative|
-L|
-|VJ|
-Entry Door|
-Circular|
-Convex|
-Smooth|
-Palegoldrod|
-Positive|
-XS|
-|VJ Again|
-Stairs|
-Circular|
-Convex|
-Smooth|
-OffWhite|
-Negative|
-S|
-|Masimba|
-Classroom|
-Circular|
-Convex|
-Smooth|
-Palegoldrod|
-Negative|
-M|
-
+Name 	Location	Form	Elevation	Margin	Color	gram value	how much 
+Maddox	Boy's Urinal	circular and irregular	Umbonate	smooth	Palegoldrod	positive/negative	XL
+Jacob	grand staircase	circular	raised 	smooth	palegoldrod	positive/negative	L
+danny	Mr.Daileys Door	nothing	nothing	smooth	palegoldrod	positive/negative	L
+vj	Entrance Door	Circular	Convex	smooth	Palegoldrod	positive	XS
+Vj	stairs	circular	convex	smooth	OffWhite	negative	S
+Masimba	Classroom	circular	convex	smooth	palegoldrod	negative	M
