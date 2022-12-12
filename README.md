@@ -2,7 +2,7 @@ Group Members: Jacob, Danny/Rene, VJ, Maddox, Masimba.
 
 [[![](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20210208121145/ri/950/picture/2021/2/shutterstock_1417926962.jpg)]]
 
-Stop the Spread:
+<h2>Stop the Spread:</h2>
 
 Testable: the iv will be affected by the dv because only one of the spots will have the most bacteria                 
 
@@ -10,7 +10,7 @@ Independent Variable: The one thing that we are going to change is the spot to s
 
 Constants: we will keep the same amount of space so we can see which spot has the most bacteria
 
-Our Findings:
+<h2>Our Findings:</h2>
 
 Name |	Location |	Form |	Elevation |	Margin |	Color |	gram value |	how much
 --- |    --- |       --- | --- |   --- |       --- |    --- |  --- 
@@ -22,14 +22,14 @@ Vj |	stairs |	circular |	convex |	smooth |	OffWhite |	negative |	S
 Masimba |	Classroom	| circular |	convex |	smooth |	palegoldrod |	negative |	M
 
 
-What we discovered:
+<h2>What we discovered:</h2>
 
 We discovered that the great steps do not contain the highest concentration of microorganisms. This is due to frequent usage of the restroom and my assumption that some users do not wash their hands. which only adds to the stench. It could be that they cleaned the stairs that day or that the boy's restroom had whatever was present because when we went to the area where the grand staircase was believed to have the most bacteria. Once the bacteria grew, we discovered that the bacteria in the boys restroom had more bacteria than the grand staircase.
 
 
 
 
-Here are some of the facts that we found:
+<h2>Here are some of the facts that we found:</h2>
 
 Bacteria are single-celled prokaryotic creatures.
 
