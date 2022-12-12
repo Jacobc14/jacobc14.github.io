@@ -1,8 +1,10 @@
-Group Members: Jacob, Danny/Rene, VJ, Maddox, Masimba.                           saetan
+Group Members: Jacob, Danny/Rene, VJ, Maddox, Masimba.            
+
+[[![](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20210208121145/ri/950/picture/2021/2/shutterstock_1417926962.jpg)]]
 
 Stop the Spread:
 
-Testable: the iv will be affected by the dv because only one of the spots will have the most bacteria
+Testable: the iv will be affected by the dv because only one of the spots will have the most bacteria                 
 
 Independent Variable: The one thing that we are going to change is the spot to see where the most bacteria will be, the bathroom, the stairs, the classroom, the wall way, or the grand stairs. Dependent Variable: We will measure the amount of bacteria in the two areas.
 
